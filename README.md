@@ -5,5 +5,5 @@ Entrega Sprint 2
 https://lista-login.bubbleapps.io/version-test?debug_mode=true
 
 # ALUNOS: 
-ANA LUIZA OLIVEIRA 
+ANA LUIZA OLIVEIRA \n 
 JOÃO VICTOR
